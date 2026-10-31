@@ -5,3 +5,4 @@ sim_*
 
 # GTKWave simulation files
 *.vcd
+.DS_Store
