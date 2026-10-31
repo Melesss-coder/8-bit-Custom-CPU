@@ -1,0 +1,7 @@
+# Icarus Verilog generated files
+*.vvp
+*.out
+sim_*
+
+# GTKWave simulation files
+*.vcd
